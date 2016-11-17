@@ -1,0 +1,19 @@
+{
+  "name": "javascript-development-environment",
+  "version": "1.0.0",
+  "description": "plularsight-javascript-development-environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grzegorczykmichal/javascript-development-environment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grzegorczykmichal/javascript-development-environment/issues"
+  },
+  "homepage": "https://github.com/grzegorczykmichal/javascript-development-environment#readme"
+}
